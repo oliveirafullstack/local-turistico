@@ -13,7 +13,7 @@ export default {
         acentBlue: "#0C51A7",
         acentOrange: "#E95E10",
         acentPink: "#E5245E",
-        acentPurlple: "#591B98",
+        acentPurple: "#591B98",
       },
       fontFamily: {
         sans: ["Open Sans", "sans-serif"],
