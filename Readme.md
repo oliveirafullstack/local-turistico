@@ -19,7 +19,7 @@
 
 </div>
 
-# 🏳️‍🌈 Bussan
+# 🏳️‍🌈 Busan
 
 <!-- Menu -->
 
@@ -44,7 +44,7 @@
 
 ## Project Description
 
-**Busan** é uma landing-page de divulgação dos locais turísticos na cidade de `Busan`, a **segunda maior** cidade da Coreia.<br>
+**Busan** é uma landing-page de divulgação dos locais turísticos da cidade de **Busan**, a **segunda maior** cidade da Coreia.<br>
 Projeto foi desenvolvido para a pratica de tecnologias, como `Astro`,`HTML`,`Tailwind`.<br>
 Minha fonte de motivação deste projeto foi a [RocketSeat](https://www.rocketseat.com.br/).<br>
 
@@ -59,7 +59,7 @@ trabalhar com compressão de _Imagens_ dentro do `Astro`.
 
 ### Functionalities
 
-- [x] **Landing-page de pontos turísticos de `Busan/Corea`**
+- [x] **Landing-page de pontos turísticos de Busan na Corea`**
 
 > [!TIP]
 >
@@ -147,8 +147,8 @@ pnpm dev
 <img src="./public/assets/bussan-01.png" alt="Print do Projeto"/>
 
 <div>
-<img width="520" src="./public/assets/busan-02.png" alt="Imagem Bussan 2"/>
-<img width="520" src="./public/assets/bussan-03.png" alt="Imagem Bussan 3"/>
+<img width="415" src="./public/assets/busan-02.png" alt="Imagem Bussan 2"/>
+<img width="415" src="./public/assets/bussan-03.png" alt="Imagem Bussan 3"/>
 </div>
 
 <!-- <h3 align="center">📽️project demonstration video</h3>
