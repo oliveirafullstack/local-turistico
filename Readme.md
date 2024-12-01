@@ -147,8 +147,8 @@ pnpm dev
 <img src="./public/assets/bussan-01.png" alt="Print do Projeto"/>
 
 <div>
-<img width="414" src="./public/assets/busan-02.png" alt="Imagem Bussan 2"/>
-<img width="414" src="./public/assets/bussan-03.png" alt="Imagem Bussan 3"/>
+<img width="410" src="./public/assets/busan-02.png" alt="Imagem Bussan 2"/>
+<img width="410" src="./public/assets/bussan-03.png" alt="Imagem Bussan 3"/>
 </div>
 
 <!-- <h3 align="center">📽️project demonstration video</h3>
