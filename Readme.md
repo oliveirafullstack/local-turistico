@@ -243,4 +243,4 @@ Isso criará uma cópia local do projeto, onde você poderá fazer suas modifica
 Released in 2024 This project is under the **MIT license**<br>
 <br>
 
-[`voltar ao topo`](#️-bussan)
+[`voltar ao topo`](#️bussan)
