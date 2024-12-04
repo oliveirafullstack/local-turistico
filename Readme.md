@@ -71,6 +71,18 @@ trabalhar com compressão de _Imagens_ dentro do `Astro`.
 
 Requisitos necessários para rodar o projeto:<br>
 
+### Prerequisites
+
+`Node.js` `VSCode` `Git`
+
+> [!IMPORTANT]
+>
+> - Run Time [Node.js](https://nodejs.org/en/) com a versão _20 ou superior_.<br>
+> - Um editor de códigos onde eu recomendo o [VCode](https://code.visualstudio.com/)<br>
+> - E o [git](https://git-scm.com/downloads) uma aplicação de versionamento de código.
+
+<!-- > - Extensão do VSCode [**Live Server**](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) -->
+
 ### technologies and tools
 
 `Astro` `JavaScript` `HTML` `Tailwind` `Pnpm`
@@ -145,10 +157,8 @@ pnpm dev
 </br>
 
 <img src="./public/assets/bussan-01.png" alt="Print do Projeto"/>
-
-<div>
-<img width="410" src="./public/assets/busan-02.png" alt="Imagem Bussan 2"/>
-<img width="410" src="./public/assets/bussan-03.png" alt="Imagem Bussan 3"/>
+<img src="./public/assets/busan-02.png" alt="Imagem Bussan 2"/>
+<img src="./public/assets/bussan-03.png" alt="Imagem Bussan 3"/>
 </div>
 
 <!-- <h3 align="center">📽️project demonstration video</h3>
@@ -187,8 +197,8 @@ developed by 💖 [Emmanuel Oliveira](https://www.linkedin.com/feed/?trk=homepag
 &copy; Todos os Direitos Reservados
 
 ### Contribute to the projects
-
-<details open>
+> Clique na seta abaixo e veja como você pode contribuir para o Projeto. 
+<details close>
 <summary>Como fazer uma contribuição ao Projeto ?</summary>
  
  - Familiarize-se com a documentação do projeto, que geralmente inclui guias de instalação.<br>
@@ -232,9 +242,10 @@ Isso criará uma cópia local do projeto, onde você poderá fazer suas modifica
 
 ## Contact
 
-<a href ="https://wa.me/5511968336094"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
-<a href = "mailto:oliveira.devfullstack@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/oliveira-marcos-emmanuel?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BUetG4s3ZT76Byt3XWdZ2Tg%3D%3D" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a><br>
+[![Lindekin](https://img.shields.io/badge/--path?style=social&logo=Linkedin&logoColor=%230664C1&logoSize=auto&label=Linkedin&labelColor=%23fff&cacheSeconds=https%3A%2F%2Fwww.linkedin.com%2Fin%2Femmanuel-marcos-oliveira%2F)](https://www.linkedin.com/in/emmanuel-marcos-oliveira/)
+[![WhatsApp](https://img.shields.io/badge/--path?style=social&logo=WhatsApp&logoColor=%231F3833&logoSize=auto&label=WhatsApp&color=%23fff&cacheSeconds=https%3A%2F%2Fwa.me%2F5511968336094)](https://wa.me/5511968336094)
+<a href="mailto:oliveirafullstack@gmail.com"><img alt="Static Badge" src="https://img.shields.io/badge/--path?style=social&logo=Gmail&logoSize=auto&label=Gmail&cacheSeconds=--query&link=mailto%3Adev-oliveira%40outlook.com.br%22"> </a>
+
 <sub>😁Obrigado por chegar até aqui!<sub>
 
 ## License
